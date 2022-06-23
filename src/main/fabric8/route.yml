@@ -1,4 +1,4 @@
-apiVersion: v1
+apiVersion: v1a1
 kind: Route
 metadata:
   name: ${project.artifactId}
